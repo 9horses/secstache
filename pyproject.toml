@@ -1,7 +1,11 @@
 [tool.poetry]
 name = "secstache"
-version = "0.3.6"
-description = ""
+version = "0.3.7"
+description = "Fill mustache template(s) with secrets from secret store(s)."
+readme = "README.md"
+license = "MIT"
+homepage = "https://github.com/9horses/secstache"
+repository = "https://github.com/9horses/secstache"
 authors = ["Shinichi Urano"]
 
 [tool.poetry.scripts]
